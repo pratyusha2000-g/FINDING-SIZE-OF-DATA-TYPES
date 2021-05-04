@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"SIZE OF INT IS "<<sizeof(int);
+    cout<<"\nSIZE OF FLOAT IS "<<sizeof(float);
+    cout<<"\nSIZE OF DOUBLE IS "<<sizeof(double);
+    cout<<"\nSIZE OF CHAR IS "<<sizeof(char);
+
+    return 0;
+}
